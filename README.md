@@ -127,8 +127,7 @@ ret
 
 
 ## Result :
-Hence, the program to perform Arithmetic and Logical operations
-was executed successfully and the correct outputs were obtained.
+Thus, the Arithmetic and Logical operations in 8086 Assembly Language were successfully executed, and the expected outputs were obtained.
 
 
 

@@ -1,9 +1,9 @@
 ## EXPERIMENT--01-ALP-FOR-8086
-#Name : P.M.Periyaraja
+# Name : P.M.Periyaraja
 
-#Roll no : 212224110044
+# Roll no : 212224110044
 
-#Date of experiment : 19-08-2025
+# Date of experiment : 19-08-2025
 
 
 
